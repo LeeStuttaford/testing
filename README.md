@@ -1,2 +1,1 @@
-# testing
-testing
+This is Lee's Testing of GIT Hub set up.
